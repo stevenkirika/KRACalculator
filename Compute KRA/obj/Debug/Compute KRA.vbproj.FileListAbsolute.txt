@@ -1,0 +1,23 @@
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\bin\Debug\Compute KRA.exe
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\bin\Debug\Compute KRA.pdb
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\bin\Debug\Compute KRA.xml
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\obj\Debug\Compute_KRA.Form1.resources
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\obj\Debug\Compute_KRA.Resources.resources
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\obj\Debug\Compute KRA.vbproj.GenerateResource.Cache
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\obj\Debug\Compute KRA.exe
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\obj\Debug\Compute KRA.xml
+C:\Users\Steven\AppData\Local\Temporary Projects\Compute KRA\obj\Debug\Compute KRA.pdb
+C:\Users\Steven\Documents\vb.net projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute KRA.exe
+C:\Users\Steven\Documents\vb.net projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute KRA.xml
+C:\Users\Steven\Documents\vb.net projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute KRA.pdb
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute KRA.exe
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute KRA.xml
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute KRA.pdb
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\bin\Debug\Compute KRA.exe
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\bin\Debug\Compute KRA.pdb
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\bin\Debug\Compute KRA.xml
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute_KRA.Form1.resources
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute_KRA.Resources.resources
+C:\Users\steven\Documents\Visual Studio 2008\Projects\Compute KRA\Compute KRA\Compute KRA\obj\Debug\Compute KRA.vbproj.GenerateResource.Cache
